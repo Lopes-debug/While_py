@@ -1,1 +1,1 @@
-Apenas o começo dos meus estudos aprendendo a base da linguagem Python
+Learning about loops While in Python codes.
